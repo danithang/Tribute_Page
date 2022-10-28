@@ -1,0 +1,27 @@
+html {background: #f0F8FF; margin: 0; padding: 20px 10px 20px 10px;}
+
+body {
+  background: #808080;
+	font-family: Helvetica;
+	margin: 0;
+}
+
+#main {padding: 50px 20px 50px 20px;}
+
+h1 {text-align: center;
+}
+
+figure, image-div {background-color: #f0F8FF; padding: 10px 60px 10px 60px; margin: 0;}
+
+#image {max-width: 100%; height: auto; display: block; margin: 0 auto;}
+
+#img-caption {margin: 10px; text-align: center;}
+
+#tribute-info {text-align: center;}
+
+ul {max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;}
+
+h3 {text-align: center; font-size: 20px; display: block;}
